@@ -1,0 +1,10 @@
+package ex0623;
+
+public class AA {
+	//ctrl+s 저장
+	//ctrl+m 화면확대및축소
+	//crtl+d 한줄삭제
+	
+	public static void main(String[] args)
+	
+}

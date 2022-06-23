@@ -1,0 +1,9 @@
+
+public class BB {
+
+	//main+ctrl+space키 자동완성
+	
+	public static void main(String[] args) {
+		
+	}
+}
