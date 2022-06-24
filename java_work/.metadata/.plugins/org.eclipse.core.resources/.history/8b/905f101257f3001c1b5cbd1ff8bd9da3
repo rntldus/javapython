@@ -1,0 +1,13 @@
+package ex0624;
+
+import java.util.Scanner;//쓰는거기억하기
+
+public class BB {
+
+	public static void main(String[] args) {
+		
+		Scanner scan=new Scanner(system.in);//얘도기억
+		
+		
+	}
+}
